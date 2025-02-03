@@ -1,0 +1,15 @@
+{
+  "name": "emarat",
+  "version": "1.0.0",
+  "description": "emarat cafe",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "c0mm4nd3r",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
